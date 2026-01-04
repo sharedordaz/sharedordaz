@@ -7,7 +7,7 @@ Hi there! 👋 I'm Shared Ordaz, a Software Developer from BYU Idaho. I apprecia
 ## 🌟 About Me
 
 - 🎓 **Professional Role:** [Software Developer | IT Engineer]
-- 🎯 **Specialties:** [Full-Stack Development, Python, React, QT, NodeJs  Linux IT Engineer]
+- 🎯 **Specialties:** [Full-Stack Development, Python, React, NodeJs  Linux IT Engineer]
 - 📚 **Education:** [Bachelor Degree at BYU Idaho (On Progress), Self Taught IT Engineer with years of experience]
 - 🌱 **Interests:** [Music, Reading, Bakery, Cryptotrading, Learning new skills]
 
